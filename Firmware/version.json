@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "firmware": "https://raw.githubusercontent.com/Uchiha106/Esp32_OTA/main/Firmware/firmware.bin",
   "date": "2026-07-20",
-  "description": "Test OTA"
+  "description": "Test 1.0.4"
 }
