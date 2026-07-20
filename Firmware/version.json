@@ -1,6 +1,6 @@
 {
-"version":"1.0.3",
-"Firmware":"https://github.com/Uchiha106/Esp32_OTA/raw/refs/heads/main/Firmware/firmware.bin",
-"date":"2026-07-20", //Ngay tao
-"description":"First Release"
+  "version": "1.0.1",
+  "firmware": "https://raw.githubusercontent.com/Uchiha106/Esp32_OTA/main/Firmware/firmware.bin",
+  "date": "2026-07-20",
+  "description": "Test OTA"
 }
