@@ -1,7 +1,6 @@
 {
-"version":"1.0.0",
-"Firmware":"https://raw.githubusercontent.com/<Uchiha106>/Esp32_OTA/main/Firmware/firmw
-are.bin",
-"date":"2026-07-20", //ngày tạo
+"version":"1.0.3",
+"Firmware":"https://github.com/Uchiha106/Esp32_OTA/blob/main/Firmware/firmware.bin",
+"date":"2026-07-20", //Ngay tao
 "description":"First Release"
 }
